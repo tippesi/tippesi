@@ -3,4 +3,4 @@ Hi, I'm Simon. I study computer science student at the Albert-Ludwigs University
 I'm most interested in:
 - Optimizing code
 - Working on hard problems
-- Graphics stuff in general
+- Graphics stuff
