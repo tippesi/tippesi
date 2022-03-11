@@ -4,3 +4,4 @@ I'm most interested in:
 - Optimizing code
 - Working on hard problems
 - Graphics stuff
+- Pipelines
